@@ -6,7 +6,7 @@
 body{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     width: 100%;
-    background-color: aliceblue;
+    background-color: rgb(75, 113, 146);
 }
 header{
     /* display: grid;
@@ -18,7 +18,7 @@ header{
     grid-template-columns: 0.5fr 2fr ; /*fr significa fraccion*/
     column-gap: 5px;/*column-gap es el espacio entre las columnas*/
     row-gap: 10px;
-    background-color:darkcyan;
+    background-color:rgb(93, 206, 206);
 }
 .header-text{
     /* color: black;
