@@ -88,7 +88,7 @@ h2.active {
 h2.inactive {
     color: #cccccc;
 }
-.grid-container .login{
+.grid-container .resource form{
     border: solid skyblue 5px;
     -webkit-border-radius: 10px 10px 10px 10px;
     border-radius: 10px 10px 10px 10px;
